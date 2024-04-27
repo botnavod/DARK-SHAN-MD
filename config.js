@@ -10,13 +10,13 @@ global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/kushansewmina1234/DARK-SHAN-MD'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '9471234567'
-global.devs = '94772108460';
+global.sudo = process.env.SUDO || '94713317339'
+global.devs = '94713317339';
 global.website = 'https://github.com/kushansewmina1234/DARK-SHAN-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'DARK-SHAN-MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'DARKSHAN' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? '𝙶𝙸𝙼 | 𝙱𝙰𝙱𝙰𝙷:ヤ' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𝙽𝙾|𝙾𝙱:(⁠ᵔ⁠ᴥ⁠ᵔ⁠)' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'DARKSHAN' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
