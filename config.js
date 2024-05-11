@@ -7,20 +7,20 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://KUSHAN:5000@cluster0.zji09ho.mongodb.net/"
 global.port= process.env.PORT || 5000
 global.email = 'textnow1pak@gmail.com'
-global.github = 'https://github.com/kushansewmina1234/DARK-SHAN-MD'
+global.github = 'https://github.com/kushansewmina1234/MRxKING-MD'
 global.location = 'pakistan'
 global.gurl = 'https://instagram.com/naveeddogar_' // add your username
-global.sudo = process.env.SUDO || '94713317339'
-global.devs = '94713317339';
+global.sudo = process.env.SUDO || '94763413228'
+global.devs = '94763413228';
 global.website = 'https://github.com/kushansewmina1234/DARK-SHAN-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/ee0f303f5da6d86d024e0.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? '𝙶𝙸𝙼 | 𝙱𝙰𝙱𝙰𝙷:ヤ' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? '𝙽𝙾|𝙾𝙱:(⁠ᵔ⁠ᴥ⁠ᵔ⁠)' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'MRxKINGヤ' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'MRxKING⁠)' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'DARKSHAN' : process.env.PACK_AUTHER.split(";")[0],
+  author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'MRxKING' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
-  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? '𝙶𝙸𝙼|𝙱𝙰𝙱𝙰𝙷:ヤ' : process.env.PACK_NAME.split(";")[1],
+  packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'MRxKINGヤ' : process.env.PACK_NAME.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION ||  'true' ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'fuck' : process.env.ANTI_BAD_WORD,
   antifake : process.env.FAKE_COUNTRY_CODE === undefined ? '212' : process.env.FAKE_COUNTRY_CODE,
@@ -46,7 +46,7 @@ module.exports = {
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'Ｖ-0.０.１' : process.env.VERSION,
-  LANG: process.env.THEME|| 'DARKSHAN',
+  LANG: process.env.THEME|| 'MRxKING',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
